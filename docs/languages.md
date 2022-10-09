@@ -72,7 +72,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `dra`       | `kn`              | Dravidian             | Kannada                     |                        |
 | `inc`       | `kok`             | Indic                 | Konkani                     |                        |
 |             | `ko`              |                       | Korean                      |                        |
-| `ira`       | `ku`              | Iranian               | Kurdish                     |                        |
+| `ira`       | `ku`              | Iranian               | Kurdish                     |      Kurmanji                  |
 | `trk`       | `kk`              | Turkic                | Kazakh                      |                        |
 | `trk`       | `ky`              | Turkic                | Kyrgyz                      |                        |
 | `itc`       | `la`              | Italic                | Latin                       |                        |
